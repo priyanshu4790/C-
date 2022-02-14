@@ -19,6 +19,6 @@ int main()
             sum += a[j];
         }
     }
-    cout<<sum;
+    cout<<sum<<" ";
     return 0;
 }
